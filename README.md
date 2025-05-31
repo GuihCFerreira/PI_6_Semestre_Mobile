@@ -22,4 +22,5 @@
 
 ## Desenvolvido
 <p>Todo o projeto foi desenvolvido pelos alunos: </br></p>
-<p>Cayk Andrade Magnani,</br>Guilherme de Carvalho Ferreira e</br> Lucas Gean dos Santos.</p> 
+<p>Cayk Andrade Magnani,</br>Gabriel Rodrigues Bolonha Santos,</br>Guilherme de Carvalho Ferreira e</br> Lucas Gean dos Santos.</p> 
+
