@@ -1,0 +1,4 @@
+#Wed Jun 04 19:20:06 BRT 2025
+base.0=/Users/lucasgeandossantos/Desktop/Area-Dev/Projetos-Pessoais/iplay/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
